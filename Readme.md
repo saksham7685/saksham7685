@@ -11,8 +11,6 @@
 &nbsp;&nbsp;
 <a href="https://github.com/saksham7685"><img src="https://img.icons8.com/color/48/github--v1.png" width="38" alt="GitHub"/></a>
 
-<br/><br/>
-
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=80&lines=%E2%9A%A1+Building+intelligent+systems;%F0%9F%A7%A0+that+learn%2C+reason%2C+and+scale" alt="Typing SVG" /></a>
 

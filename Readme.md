@@ -1,142 +1,211 @@
-<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:00ADD8&height=200&section=header&text=Saksham%20Gupta&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+Madgical+Techdom;ML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Full-Stack+Cloud+Developer+%E2%98%81%EF%B8%8F;Building+with+RAG+and+LLMs+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4F46E5,30:7C3AED,60:06B6D4,100:10B981&height=300&section=header&text=Saksham%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20GenAI%20Builder&descSize=18&descColor=E0E7FF&descAlignY=62" width="100%"/>
 
-<p align="center">
-  <em>🔭 Transforming complex data into intelligent solutions</em>
-</p>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=saksham7685&color=58A6FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/saksham7685?style=flat-square&color=58A6FF&logo=github)](https://github.com/saksham7685)
-
-</div>
-
----
-
-<!-- ===== ABOUT ME ===== -->
-## 🧑‍💻 About Me
-
-```yaml
-name: Saksham Gupta
-location: Chandigarh, India 🇮🇳
-current_role: SWE Intern at Madgical Techdom 🚀
-education: B.Tech ECE @ Punjab Engineering College (2022-2026)
-focus:
-  - Generative AI & Large Language Models (LLMs)
-  - Cloud-native Backend Systems (AWS)
-  - Retrieval Augmented Generation (RAG)
-interests:
-  - Scalable API Architecture
-  - Graph Databases (Neo4j)
-  - Vector Databases (Pinecone)
-fun_facts:
-  - "I hold a design patent for an electronics kit for the visually impaired! 🛠️"
-  - "Qualified for Round 2 of Adobe India Hackathon 🏆"
-```
-
-- 🔭 Currently working on **Cloud-native backend systems using Django & AWS**
-- 🌱 Mastering **Advanced RAG techniques and Agentic AI**
-- 👯 Open to collaborate on **Generative AI and Open Source projects**
-- 💬 Ask me about **Django, AWS, NLP, and LLM Orchestration**
-- 📫 Reach me at **Saksham3204@gmail.com**
-
----
-
-<!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
-
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=generative-ai&logoColor=white" />
-</p>
-
-**Web & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white" />
-</p>
-
-**Tools & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-211F20?style=for-the-badge&logo=pinecone&logoColor=white" />
-</p>
-
----
-
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saksham7685&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<!-- Social Icons — brand colors, icon-only -->
+<a href="mailto:Saksham3204@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="38" alt="Email"/></a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham7685&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<a href="https://linkedin.com/in/saksham-gupta-b68601288"><img src="https://img.icons8.com/color/48/linkedin.png" width="38" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/saksham7685"><img src="https://img.icons8.com/color/48/github--v1.png" width="38" alt="GitHub"/></a>
+
+<br/><br/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=80&lines=%E2%9A%A1+Building+intelligent+systems;%F0%9F%A7%A0+that+learn%2C+reason%2C+and+scale" alt="Typing SVG" /></a>
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saksham7685&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=2&section=header" width="100%"/>
+
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me</h2>
+
+I'm an Electronics & Communication Engineering undergrad at **Punjab Engineering College**, deeply curious about how machines can learn to reason. Currently building cloud-native backend systems as a **Software Engineer Intern at Madgical Techdom** — shipping production APIs on AWS that handle real workloads.
+
+What really drives me is the space where **LLM orchestration meets systems design** — designing RAG pipelines that actually retrieve useful context, building graph-based reasoning with Neo4j, and figuring out how to make intelligent systems that don't just demo well, but *work at scale*. I think the most interesting problems right now live at that intersection, and I'm still exploring where exactly I fit in.
+
+Outside of code, I lead **IEEE PEC** as Chairperson, run hands-on AI workshops for juniors, and hold a design patent for an electronics kit for the visually impaired. Always looking for the next problem that's harder than the last one.
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%"/>
+
+<h2>🧠 Tech Stack</h2>
+
+**💻 Languages**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,mysql&theme=dark" /></a>
+
+**⚙️ AI · ML · GenAI**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></a>
+
+`LangChain` · `LangGraph` · `RAG` · `Transformers` · `NLP` · `Hugging Face`
+
+**🔗 Frameworks & Backend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" /></a>
+
+**☁️ Cloud & Infrastructure**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" /></a>
+
+**🧩 Databases & Systems**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,redis,neo4j,mysql&theme=dark" /></a>
+
+`Pinecone` · `Ollama` · `DynamoDB`
+
+<br/>
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2&section=header" width="100%"/>
+
+<h2>🚀 Featured Projects</h2>
+
+### 📡 Neural News
+
+**Problem:** Mainstream news platforms lack transparency — users can't easily assess credibility or detect editorial bias in what they read.
+
+**Approach:** Built a full-stack news intelligence platform that scrapes and aggregates news in real-time, then runs each article through an AI pipeline for **credibility scoring** and **bias detection**. Integrated a **conversational RAG interface** where users can ask questions about current events, powered by LLMs orchestrated locally via Ollama with Pinecone as the vector store.
+
+**Stack:** Django · Redis · Scrapy · Selenium · Pinecone · NLP · Ollama
 
 ---
 
-<!-- ===== PROJECTS ===== -->
-## 🚀 Featured Projects
+### 📈 TradeOptimize AI
 
-<div align="center">
+**Problem:** Import businesses rely on expensive external consultants for product classification, compliance checks, route optimization, and FX planning — all disconnected workflows.
 
-| 🏆 Project | 📝 Description | 🛠 Tech | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **Neural News** | AI-driven news platform with bias detection and conversational RAG. | Django · RAG · Pinecone | [Project Link](#) |
-| **TradeOptimize AI** | AI control tower for import operations, logistics, and FX planning. | FastAPI · Redis · AI | [Project Link](#) |
-| **Image Captioning** | Context-aware description generator trained on COCO dataset. | PyTorch · CNN · LSTM | [Project Link](#) |
+**Approach:** Designed an AI-powered control tower that unifies the entire import pipeline into a single platform. Uses **Prophet for demand/FX forecasting**, multiple AI integrations for compliance and classification, and intelligent routing algorithms to optimize logistics decisions.
 
-</div>
+**Impact:** Drove **60% improvement in operational efficiency** and **80% reduction in decision-making costs** by replacing fragmented consultancy with unified AI recommendations.
+
+**Stack:** FastAPI · Prophet · MongoDB · Redis · Pandas
 
 ---
 
-<!-- ===== ACHIEVEMENTS ===== -->
-## 🏅 Key Achievements
+### 📄 PDFmate.AI
 
-- 📜 **Design Patent**: Basic electronics Kit for the Visually Impaired (No. 444235-001)
-- 🏆 **Hackathon**: Qualified for Round 2 of Adobe India Hackathon
-- 🎓 **Academic**: 97.67 percentile in JEE Mains 2022
+**Problem:** Static PDFs lock valuable information behind rigid formats — searching across large document collections is slow and keyword-dependent.
+
+**Approach:** Built a semantic querying system that ingests PDFs, generates embeddings, and stores them in **Pinecone**. Users can ask natural-language questions and get precise, context-aware answers through a **RAG pipeline** backed by Ollama, turning document silos into interactive knowledge bases.
+
+**Stack:** Django · Pinecone · Ollama · Embeddings
 
 ---
 
-<!-- ===== CONNECT ===== -->
-## 🌐 Connect With Me
+### 🖼️ Image Captioning Model
+
+**Problem:** Generating meaningful, context-aware text descriptions for images is a core challenge at the intersection of computer vision and NLP.
+
+**Approach:** Preprocessed the COCO dataset and built a deep learning pipeline pairing a **ResNet-152 CNN encoder** with an **LSTM decoder**. Trained the model to generate natural language captions, with attention visualization to show which image regions influenced each word.
+
+**Impact:** Generated accurate, contextual descriptions for **500+ images** with full attention map support for interpretability.
+
+**Stack:** Python · PyTorch · ResNet-152 · COCO Dataset
+
+<br/>
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=10B981&height=2&section=header" width="100%"/>
+
+<h2>💼 Experience</h2>
+
+**Software Engineering Intern** · *Madgical Techdom* · `Jan 2025 — Jun 2025`
+
+Designed and optimized cloud-native backend systems using **Django** and **AWS** (Lambda, DynamoDB, API Gateway). Built high-concurrency REST APIs, integrated them across products, and established testing practices with **pytest** — focused on cutting API latency and improving system resilience at scale.
+
+<br/>
+
+<!-- ═══════════════════════ LEADERSHIP ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EC4899&height=2&section=header" width="100%"/>
+
+<h2>🏛️ Leadership & Impact</h2>
+
+**Chairperson · IEEE PEC Student Branch** `Jul 2025 — Present`  
+Leading a team of 100+ members across technical and cultural verticals. Coordinated flagship events like Techadroit and Technovation, ran AI/ML workshops, and built a mentoring pipeline for incoming members.
+
+**Marketing Joint Head · PECFEST** `Jul — Nov 2024`  
+Secured sponsorship deals worth 4% of the combined event budget. Drove strategic partnerships that increased PECFEST's market visibility by 15% and expanded attendee engagement across sub-events.
+
+<br/>
+
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F59E0B&height=2&section=header" width="100%"/>
+
+<h2>🏆 Achievements</h2>
+
+<table>
+<tr>
+<td>📜</td>
+<td><strong>Design Patent Holder</strong> — Basic Electronics Kit for the Visually Impaired <em>(Application No: 444235-001)</em></td>
+</tr>
+<tr>
+<td>🚀</td>
+<td><strong>Adobe India Hackathon</strong> — Qualified for Round 2</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><strong>JEE Mains 2022</strong> — 97.67 percentile &nbsp;·&nbsp; CBSE XII — 95.6%</td>
+</tr>
+<tr>
+<td>🔬</td>
+<td><strong>Research</strong> — Guided research in CMME on multi-omics data for cancer detection (Summer 2025)</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%"/>
+
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-gupta-b68601288)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saksham7685)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Saksham3204@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=saksham7685&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham7685&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=saksham7685&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" height="175" />
+
+<br/><br/>
+
+<!-- Contribution Snake — requires GitHub Action (Platane/snk) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution animation" src="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham7685&hide_border=true&bg_color=0d1117&color=7C3AED&line=06B6D4&point=E0E7FF&area=true&area_color=4F46E5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:7C3AED,60:06B6D4,100:10B981&height=120&section=footer" width="100%"/>
+
 
 ---
 

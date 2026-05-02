@@ -167,30 +167,7 @@ Secured sponsorship deals worth 4% of the combined event budget. Drove strategic
 
 <br/>
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%"/>
-
-<h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saksham7685&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham7685&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=saksham7685&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" height="175" />
-
-<br/><br/>
-
 <!-- Contribution Snake — requires GitHub Action (Platane/snk) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution animation" src="https://github.com/saksham7685/saksham7685/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 <br/><br/>
 
@@ -204,13 +181,6 @@ Secured sponsorship deals worth 4% of the combined event budget. Drove strategic
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:7C3AED,60:06B6D4,100:10B981&height=120&section=footer" width="100%"/>
 
-
----
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:00ADD8&height=100&section=footer" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 

@@ -167,15 +167,6 @@ Secured sponsorship deals worth 4% of the combined event budget. Drove strategic
 
 <br/>
 
-<!-- Contribution Snake — requires GitHub Action (Platane/snk) -->
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham7685&hide_border=true&bg_color=0d1117&color=7C3AED&line=06B6D4&point=E0E7FF&area=true&area_color=4F46E5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 

@@ -24,7 +24,7 @@
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me</h2>
 
-I'm an Electronics & Communication Engineering graduate from **Punjab Engineering College**, deeply curious about how machines can learn to reason. I have built cloud-native Backend Systems as a **Software Engineer at Madgical Techdom** — shipped production APIs on AWS that handle real workloads. Currently working as an **AI intern at XLSCOUT ** working upon RAG ,Browser Automation,Agentic workflow optimistion for client facing Modules and internal tools.
+I'm an Electronics & Communication Engineering graduate from **Punjab Engineering College**, deeply curious about how machines can learn to reason. I have built cloud-native Backend Systems as a **Software Engineer at Madgical Techdom** — shipped production APIs on AWS that handle real workloads. Currently working as an **AI intern at XLSCOUT** working upon RAG ,Browser Automation,Agentic workflow optimistion for client facing Modules and internal tools.
 
 What really drives me is the space where **LLM orchestration meets systems design** — designing RAG pipelines that actually retrieve useful context, building graph-based reasoning with Neo4j, and figuring out how to make intelligent systems that don't just demo well, but *work at scale*. I think the most interesting problems right now live at that intersection, and I'm still exploring where exactly I fit in.
 
